@@ -1,0 +1,6 @@
+name: XemBroadcaster
+version: ${project.version}
+main: me.xemu.xembroadcaster.XemBroadcaster
+api-version: 1.16
+authors: [Xemu]
+description: The ultimate broadcaster plugin 
